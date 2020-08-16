@@ -2,7 +2,7 @@
 
 
 # Proficiencies
---- | ---
+
 - python | intermediate
 - c++ | okay
 - r | intermediate
