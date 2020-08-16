@@ -2,13 +2,12 @@
 
 
 # Proficiencies
-- Language | Level
 --- | ---
-python | intermediate
-c++ | okay
-r | intermediate
-SAS | beginner
-SQL | beginner
+- python | intermediate
+- c++ | okay
+- r | intermediate
+- SAS | beginner
+- SQL | beginner
 
 
 # Project Ideas
